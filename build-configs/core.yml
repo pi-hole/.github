@@ -11,4 +11,4 @@ install:
 script:
   # tox.ini handles setup, ordering of docker build first, and then run tests
   - tox
-if: type = pull_request OR head_repo =~ ^pi-hole\\/.*$
+if: type = pull_request OR (type = push AND head_repo =~ ^pi-hole)
