@@ -14,7 +14,7 @@ assignees: ''
 - FTL:  
 
 ### Platform
-<!-- OS examples: Debian 10, Debian Buster, Ubuntu 18 -->
+<!-- OS examples: Debian 10, Debian Buster, Ubuntu 18.04 -->
 - OS and version:  
 <!-- Platform examples: Raspberry Pi, Docker, Synology, VM/VPS -->
 - Platform:  
