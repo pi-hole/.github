@@ -14,5 +14,5 @@ mergeable:
               regex: 'adminLTE'
     pass:
       - do: comment
-         payload:
-           body: This item is 20 days or more old. Is this item still relevant?
+        payload:
+          body: This item is 20 days or more old. Is this item still relevant?
