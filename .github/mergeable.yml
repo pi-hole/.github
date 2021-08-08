@@ -5,6 +5,7 @@ mergeable:
       - do: stale
         days: 20
         type: issues
+    filter:
       - do: repository
         name:
           or:
