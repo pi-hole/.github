@@ -6,7 +6,7 @@ on:
 
 jobs:
   clean-ghcr:
-    name: Delete old unused container images
+    name: Prune Untagged
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -20,7 +20,5 @@ jobs:
           token: ${{ secrets.DELETE_PACKAGES_TOKEN }}
           organization: pi-hole
           container: ${{ matrix.container }}
-          dry-run: true # Dry-run first, then change to `false`
-          older-than: 7 # days
-          keep-last: 2
+          dry-run: false
           untagged: true
