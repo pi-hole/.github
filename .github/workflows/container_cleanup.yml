@@ -1,0 +1,26 @@
+name: Delete old container images
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  clean-ghcr:
+    name: Delete old unused container images
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        container: [ftl-build, pihole, docker-pi-hole-base]
+    steps:
+      - 
+        name: Prune
+        uses: vlaurin/action-ghcr-prune@main
+        with:
+          token: ${{ secrets.DELETE_PACKAGES_TOKEN }}
+          organization: pi-hole
+          container: ${{ matrix.container }}
+          dry-run: true # Dry-run first, then change to `false`
+          older-than: 7 # days
+          keep-last: 2
+          untagged: true
