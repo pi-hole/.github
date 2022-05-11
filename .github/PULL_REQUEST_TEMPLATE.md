@@ -27,7 +27,7 @@ We enforce the [DCO](https://docs.pi-hole.net/guides/github/contributing/) for a
 ---
 **By submitting this pull request, I confirm the following:** 
 
-1. I have read and understood the [contributors guide](https://github.com/pi-hole/pi-hole/blob/master/CONTRIBUTING.md), as well as this entire template. I understand which branch to base my commits and Pull Requests against. 
+1. I have read and understood the [contributors guide](https://docs.pi-hole.net/guides/github/contributing/), as well as this entire template. I understand which branch to base my commits and Pull Requests against. 
 2. I have commented my proposed changes within the code and I have tested my changes.
 3. I am willing to help maintain this change if there are issues with it later.
 4. It is compatible with the [EUPL 1.2 license](https://opensource.org/licenses/EUPL-1.1)
