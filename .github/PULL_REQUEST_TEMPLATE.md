@@ -4,7 +4,7 @@ Please read the comments below to help us consider your Pull Request.
 
 We are all volunteers and completing the process outlined will help us review your commits quicker.
 
-**Please make sure you [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits and base your code and PRs against the `development` branch.**
+**Please make sure you [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits and base your code and PRs against the repositories developmental branch.**
 
 We enforce the [DCO](https://docs.pi-hole.net/guides/github/contributing/) for all contributions.
 
