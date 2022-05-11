@@ -6,6 +6,8 @@ We are all volunteers and completing the process outlined will help us review yo
 
 **Please make sure you [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits and base your code and PRs against the `development` branch.**
 
+We enforce the [DCO](https://docs.pi-hole.net/guides/github/contributing/) for all contributions.
+
 ---
 - **What does this PR aim to accomplish?:**
 
