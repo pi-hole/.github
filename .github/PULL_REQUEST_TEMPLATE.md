@@ -4,11 +4,9 @@ Please read the comments below to help us consider your Pull Request.
 
 We are all volunteers and completing the process outlined will help us review your commits quicker.
 
-**Please make sure you
- 1. base your code and PRs against the repositories developmental branch.
- 2. [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits as we enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions**
-
-We enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions. Please [sign all your commits](https://docs.pi-hole.net/guides/github/how-to-signoff/).
+**Please make sure you**
+ 1. Base your code and PRs against the repositories developmental branch.
+ 2. [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits as we enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions
 
 ---
 - **What does this PR aim to accomplish?:**
