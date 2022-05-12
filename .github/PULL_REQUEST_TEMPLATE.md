@@ -8,7 +8,7 @@ We are all volunteers and completing the process outlined will help us review yo
  1. base your code and PRs against the repositories developmental branch.
  2. [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits as we enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions**
 
-We enforce the [DCO](https://docs.pi-hole.net/guides/github/contributing/) for all contributions.
+We enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions. Please [sign all your commits](https://docs.pi-hole.net/guides/github/how-to-signoff/).
 
 ---
 - **What does this PR aim to accomplish?:**
