@@ -34,4 +34,4 @@ We are all volunteers and completing the process outlined will help us review yo
 5. I have squashed any insignificant commits. ([`git rebase`](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html))
 
 ---
-[ ] I have read the above and my PR is ready for review. _Check this box to confirm_
+- [ ] I have read the above and my PR is ready for review. _Check this box to confirm_
