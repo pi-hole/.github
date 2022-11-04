@@ -10,20 +10,18 @@ We are all volunteers and completing the process outlined will help us review yo
  3. [Sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) all your commits as they must have verified signatures
 
 ---
-- **What does this PR aim to accomplish?:**
+
+**What does this PR aim to accomplish?:**
 
 *Replace this with detailed description, screenshots (if necessary), as well as links to any relevant GitHub issues*
 
-
-- **How does this PR accomplish the above?:**
+**How does this PR accomplish the above?:**
 
 *Replace this with a detailed description (such as a changelog) and screenshots (if necessary) of the implemented fix*
 
-
-- **What documentation changes (if any) are needed to support this PR?:**
+**What documentation changes (if any) are needed to support this PR?:**
 
 *Replace this with a detailed list of any necessary changes*
-
 
 ---
 **By submitting this pull request, I confirm the following:** 
