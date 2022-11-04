@@ -7,6 +7,7 @@ We are all volunteers and completing the process outlined will help us review yo
 **Please make sure you**
  1. Base your code and PRs against the repositories developmental branch.
  2. [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits as we enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions
+ 3. [Sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) all your commits as they must have verified signatures
 
 ---
 - **What does this PR aim to accomplish?:**
@@ -32,6 +33,10 @@ We are all volunteers and completing the process outlined will help us review yo
 3. I am willing to help maintain this change if there are issues with it later.
 4. It is compatible with the [EUPL 1.2 license](https://opensource.org/licenses/EUPL-1.1)
 5. I have squashed any insignificant commits. ([`git rebase`](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html))
+6. I have checked that another pull request for this purpose does not exist.
+7. I have considered, and confirmed that this submission will be valuable to others.
+8. I accept that this submission may not be used, and the pull request closed at the will of the maintainer.
+9. I give this submission freely, and claim no ownership to its content.
 
 ---
 - [ ] I have read the above and my PR is ready for review. _Check this box to confirm_
