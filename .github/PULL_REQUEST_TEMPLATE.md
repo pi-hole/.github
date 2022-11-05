@@ -9,6 +9,7 @@ We are all volunteers and completing the process outlined will help us review yo
  1. Base your code and PRs against the repositories developmental branch.
  2. [Sign Off](https://docs.pi-hole.net/guides/github/how-to-signoff/) all commits as we enforce the [DCO](https://docs.pi-hole.net/guides/github/dco/) for all contributions
  3. [Sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) all your commits as they must have verified signatures
+ 4. File a pull request for any change that requires changes to [our documentation](https://docs.pi-hole.net/) at our [documentation repo](https://github.com/pi-hole/docs) 
 
 ---
 
@@ -20,9 +21,9 @@ We are all volunteers and completing the process outlined will help us review yo
 
 <!--- Replace this with a detailed description (such as a changelog) and screenshots (if necessary) of the implemented fix -->
 
-**What documentation changes (if any) are needed to support this PR?:**
+**Link documentation PRs if any are needed to support this PR:**
 
-<!--- Replace this with a detailed list of any necessary changes  -->
+<!--- Replace this with a link to your documentation PR  -->
 
 ---
 **By submitting this pull request, I confirm the following:**
