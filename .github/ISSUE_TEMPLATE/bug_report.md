@@ -10,7 +10,7 @@ assignees: ''
 ### Versions
 <!-- Please run `pihole -v` and provide the following: -->
 - Pi-hole:  
-- AdminLTE:  
+- Web:  
 - FTL:  
 
 ### Platform
@@ -57,3 +57,5 @@ _If applicable, add screenshots to help explain your problem._
 ### Additional context
 
 _Add any other context about the problem here._
+
+<!-- If you are running Pi-hole in a container, please include your Compose file or docker run command -->
