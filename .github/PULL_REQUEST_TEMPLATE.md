@@ -31,7 +31,7 @@ We are all volunteers and completing the process outlined will help us review yo
 1. I have read and understood the [contributors guide](https://docs.pi-hole.net/guides/github/contributing/), as well as this entire template. I understand which branch to base my commits and Pull Requests against.
 2. I have commented my proposed changes within the code and I have tested my changes.
 3. I am willing to help maintain this change if there are issues with it later.
-4. It is compatible with the [EUPL 1.2 license](https://opensource.org/licenses/EUPL-1.1)
+4. It is compatible with the [EUPL 1.2 license](https://opensource.org/licenses/EUPL-1.2)
 5. I have squashed any insignificant commits. ([`git rebase`](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html))
 6. I have checked that another pull request for this purpose does not exist.
 7. I have considered, and confirmed that this submission will be valuable to others.
