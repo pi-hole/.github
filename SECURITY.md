@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Pi-hole welcomes all responsible disclosures. **Please do not open an ISSUE to report a security problem**
+Pi-hole welcomes all responsible disclosures. **Please do not open an ISSUE to report a security problem**.
 
 We accept privately reported disclosures via [GitHub Private Vulnerability Reports](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately)
 
