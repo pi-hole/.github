@@ -3,6 +3,11 @@ name: Delete old container images
 on:
   workflow_dispatch:
 
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   clean-ghcr:
@@ -15,7 +20,7 @@ jobs:
     steps:
       - 
         name: Prune
-        uses: vlaurin/action-ghcr-prune@main
+        uses: vlaurin/action-ghcr-prune@0cf7d39f88546edd31965acba78cdcb0be14d641 #v0.6.0
         with:
           token: ${{ secrets.DELETE_PACKAGES_TOKEN }}
           organization: pi-hole
